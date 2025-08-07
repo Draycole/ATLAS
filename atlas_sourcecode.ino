@@ -150,7 +150,7 @@ void checkIRRemote() {
     switch(results.value) {
       case OVERRIDE_ON_CODE:
         currentState = STATE_OVERRIDE;
-        digitalWrite(OVERRIDE_LED, HIGH); =
+        digitalWrite(OVERRIDE_LED, HIGH);
         break;
       case OVERRIDE_OFF_CODE:
         currentState = STATE_NORMAL;
