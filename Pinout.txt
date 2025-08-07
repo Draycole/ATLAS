@@ -1,0 +1,30 @@
+LED_Stable
+	Signal - 3
+	GND
+LED_Astable
+	Signal - 4
+	GND
+LED_Override
+	Signal - 5
+	GND
+Buzzer
+	Power - 6
+	GND
+Photoresistor
+	Vcc
+	Analog signal - A0
+IR Sensor
+	Vcc
+	Signal - 7
+	GND
+SG90 Servo
+	Vcc
+	Signal - 2
+	GND
+LCD
+	Vcc
+	SCK - 13
+	SDA (MOSI) - 11
+	DC - 8
+	Reset -	9
+	CS - 10
