@@ -33,7 +33,7 @@ A smart laser tripwire system built with Arduino that detects motion or interrup
 
 ## Circuit Schematic
 
-You can find an interactive version of the project's schematics here. This was developed using CirkitDesigner <sup>TM</sup> <br>
+You can find an interactive version of the project's schematics here. I developed this using CirkitDesigner <sup>TM</sup> <br>
 [ATLAS Schematic](https://app.cirkitdesigner.com/project/25f5dbe2-e3fa-4537-9047-c97edf9c66f3)
 
 ## 📷 Demo
