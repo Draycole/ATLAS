@@ -92,7 +92,7 @@ void loop() {
   checkIRRemote();
 }
 
-// bespoke tone function
+// Custom tone function
 void myTone(uint8_t pin, unsigned int frequency, unsigned long duration) {
   pinMode(pin, OUTPUT);
   analogWrite(pin, 128);  // 50% duty cycle
