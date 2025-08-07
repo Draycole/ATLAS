@@ -54,5 +54,4 @@ MIT License
 
 ## ✍️ Author
 
-Munachimso Henry — Electrical & Electronics Engineering Student
-
+Munachimso Henry — EEE @ Covenant University
