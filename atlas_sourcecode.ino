@@ -64,7 +64,7 @@ void setup() {
 void loop() {
   unsigned long currentMillis = millis();
   
-  // Read sensors and check state
+  // read sensors and check state
   int ldrValue = analogRead(LDR_PIN);
   Serial.println(ldrValue);
 
@@ -76,7 +76,7 @@ void loop() {
     }
   }
 
-  // State handling
+  // state handling
   switch(currentState) {
     case STATE_NORMAL:
       handleNormalState();
@@ -92,7 +92,7 @@ void loop() {
   checkIRRemote();
 }
 
-// Custom tone function
+// custom tone function
 void myTone(uint8_t pin, unsigned int frequency, unsigned long duration) {
   pinMode(pin, OUTPUT);
   analogWrite(pin, 128);  // 50% duty cycle
@@ -158,7 +158,7 @@ void checkIRRemote() {
         break;
     }
     irrecv.resume();
-    delay(100); // Simple debounce
+    delay(100);
   }
 }
 
