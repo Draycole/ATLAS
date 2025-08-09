@@ -23,7 +23,7 @@ const int BUZZER_FREQ = 1000;
 const int BUZZER_DURATION = 100;
 const int SERVO_ALERT_POS = 180;
 const int SERVO_NORMAL_POS = 0;
-const unsigned long BUZZER_INTERVAL = 200; // Time between beeps
+const unsigned long BUZZER_INTERVAL = 200;
 
 // irremote hex codes
 #define OVERRIDE_OFF_CODE 0xFF18E7
