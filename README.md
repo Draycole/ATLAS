@@ -12,7 +12,7 @@ A smart laser tripwire system built with Arduino that detects motion or interrup
 
 ## Components Used
 
-- Arduino Uno/Nano
+- Arduino Uno
 - 5V Laser Module
 - Photoresistor (LDR)
 - 10kΩ Resistor (Voltage Divider)
