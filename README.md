@@ -45,7 +45,7 @@ I put the demo video on my portfolio site. The hypertext is a link to that secti
 
 - LDR readings rise when laser is blocked.
 - Non-blocking code uses `millis()` for buzzer toggling.
-- Custom `myTone()` avoids timer conflicts with IRremote.
+- I made `myTone()` function to avoid timer conflicts with IRremote.
 - Override LED stays on when system is manually disabled via remote.
 
 ## License
