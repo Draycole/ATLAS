@@ -20,7 +20,7 @@ A smart laser tripwire system built with Arduino that detects motion or interrup
 - Servo Motor
 - Buzzer
 - LEDs (x3)
-- 1.8" ST7735 TFT Display
+- 1.8" ST7735 TFT LCD Screen
 - Breadboard, Jumper Wires
 
 ## How It Works
