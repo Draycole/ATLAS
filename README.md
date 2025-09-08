@@ -49,6 +49,10 @@ I put the demo video on my portfolio site. The hypertext is a link to that secti
 - I made `myTone()` function to avoid timer conflicts with IRremote.
 - Override LED stays on when system is manually disabled via remote.
 
+## Additional Notes
+
+You can find more on ATLAS on my portfolio page [here](https://munachimsohenry.wixsite.com/my-site/atlas).
+
 ## License
 
 MIT License
@@ -57,6 +61,3 @@ MIT License
 
 Munachimso Henry — EEE @ Covenant University
 
-## Additional Notes
-
-You can find more on ATLAS on my portfolio page [here](https://munachimsohenry.wixsite.com/my-site/atlas).
