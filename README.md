@@ -56,3 +56,7 @@ MIT License
 ## Author
 
 Munachimso Henry — EEE @ Covenant University
+
+## Additional Notes
+
+You can find more on ATLAS on my portfolio page [here](https://munachimsohenry.wixsite.com/my-site/atlas).
