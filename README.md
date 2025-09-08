@@ -39,7 +39,8 @@ You can find an interactive version of the project's schematics here. I develope
 ## Demo
 
 I put the demo video on my portfolio site. The hypertext is a link to that section on the webpage.
-[Demo Video](https://munachimsohenry.wixsite.com/my-site/copy-of-project-6-atmoslog#:~:text=in%20the%20system.-,Demonstration%20Video,-In%20the%20demo)
+[Demo Video](https://munachimsohenry.wixsite.com/my-site/atlas#:~:text=in%20the%20system.-,Demonstration%20Video,-In%20the%20demo)
+
 
 ## Notes
 
