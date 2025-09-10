@@ -1,11 +1,11 @@
 LED_Stable
-	Signal - 3
+	Data - 3
 	GND
 LED_Astable
-	Signal - 4
+	Data - 4
 	GND
 LED_Override
-	Signal - 5
+	Data - 5
 	GND
 Buzzer
 	Power - 6
@@ -15,11 +15,11 @@ Photoresistor
 	Analog signal - A0
 IR Sensor
 	Vcc
-	Signal - 7
+	Data - 7
 	GND
 SG90 Servo
 	Vcc
-	Signal - 2
+	Data - 2
 	GND
 LCD
 	Vcc
